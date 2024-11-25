@@ -74,6 +74,5 @@
         <a href="https://github.com/Blaten7/github-readme-stats">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blaten7" alt="Blaten7's GitHub Stat"></img>
         </a>
-        
     </div>
 </div>
