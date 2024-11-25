@@ -3,7 +3,7 @@
 🛠️ Skills
 <li> Java, JavaScript</li><br>
 <li> </li><br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blaten7)](https://github.com/anuraghazra/github-readme-stats)
+[![Blaten's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blaten7)](https://github.com/Blaten7/github-readme-stats)
 
 <!--
 **Blaten7/Blaten7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
