@@ -63,6 +63,9 @@
             </tr>
         </table>
     </div><br><br><br>
+    <div>
+        <h2>📜 Certifications</h2><br>
+    </div><br><br><br>
     <div style="width: 35%; text-align: center;">
         <h2>📊 Stats</h2><br><br>
         <a href="https://solved.ac/lasercannon/">
