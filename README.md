@@ -71,6 +71,9 @@
         <a href="https://github.com/Blaten7/github-readme-stats">
             <img src="https://github-readme-stats.vercel.app/api?username=Blaten7&show_icons=true&theme=radical" alt="Blaten7's GitHub stats">
         </a><br><br><br>
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blaten7)](https://github.com/Blaten7/github-readme-stats)
+        <a href="https://github.com/Blaten7/github-readme-stats">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blaten7" alt="Blaten7's GitHub Stat"></img>
+        </a>
+        
     </div>
 </div>
