@@ -1,5 +1,5 @@
 <h1>Hi there 👋</h1><br><br><br>
-
+        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Blaten7&theme=highcontrast&hide_border=true&border_radius=50&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a>
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="width: 60%;">
         <h2>🛠️ Skills</h2>
@@ -70,7 +70,6 @@
         <h2>📊 Stats</h2><br><br>
         <div style="display:flex; flex-direction:row">
         <a href="https://solved.ac/lasercannon/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lasercannon" alt="Solved.ac Profile"></a>     
-        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Blaten7&theme=highcontrast&hide_border=true&border_radius=50&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a>
         </div>
     </div>
 </div>
