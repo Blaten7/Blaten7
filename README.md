@@ -69,8 +69,8 @@
     <div style="width: 35%; text-align: center;">
         <h2>📊 Stats</h2><br><br>
         <div style="display:flex; flex-direction:row">
-        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Blaten7&theme=highcontrast&hide_border=true&border_radius=50&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a>
         <a href="https://solved.ac/lasercannon/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lasercannon" alt="Solved.ac Profile"></a>     
+        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Blaten7&theme=highcontrast&hide_border=true&border_radius=50&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a>
         </div>
     </div>
 </div>
