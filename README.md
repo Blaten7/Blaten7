@@ -63,8 +63,8 @@
         </table>
     </div><br><br><br>
     <div>
-        <h2>📜 Certifications</h2><br>
-    </div><br><br><br>
+        <h2>💻 Projects</h2><br>
+    </div><br><br>
     <div style="width: 35%; text-align: center;">
         <h2>📊 Stats</h2><br><br>
         <div style="display:flex; flex-direction:row">
@@ -72,4 +72,5 @@
         <a href="https://solved.ac/lasercannon/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lasercannon" alt="Solved.ac Profile"></a>     
         </div>
     </div>
+    <h2>📜 Certifications</h2><br>
 </div>
