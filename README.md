@@ -78,7 +78,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Blaten7&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0d1117&icon_color=00FFFF&text_color=00FFFF&title_color=00FFFF&count_private=true" width=56% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blaten7&theme=react-dark&bg_color=0d1117&hide_border=true&line=00FFFF&color=00FFFF" width=95% />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blaten7&theme=react-dark&bg_color=0d1117&hide_border=true&line=00FFFF&color=00FFFF" width=94.5% />
 </a>
     </div>
     <h2>📜 Certifications</h2><br>
