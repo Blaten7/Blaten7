@@ -68,8 +68,8 @@
     <div style="width: 35%; text-align: center;">
         <h2>📊 Stats</h2><br>
         <div style="display:flex; flex-direction:row">
-        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Blaten7&theme=highcontrast&hide_border=true&date_format=%5BY.%5Dn.j" style="width:53%" alt="GitHub Streak" /></a>
-        <a href="https://solved.ac/lasercannon/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lasercannon" width="41%" alt="Solved.ac Profile"></a>     
+        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Blaten7&theme=highcontrast&hide_border=true&date_format=%5BY.%5Dn.j" width="53%" height="50%" alt="GitHub Streak" /></a>
+        <a href="https://solved.ac/lasercannon/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lasercannon" width="41%" height="50%" alt="Solved.ac Profile"></a>     
         </div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blaten7&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0d1117&icon_color=00FFFF&text_color=00FFFF&title_color=00FFFF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
