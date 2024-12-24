@@ -14,6 +14,8 @@
             </tr>
             <tr>
                 <td>
+                    <img src="https://img.shields.io/badge/Eureka_Server-5A5A5A?style=for-the-badge&logo=spring&logoColor=white" alt="">
+        <img src="https://img.shields.io/badge/Spring_Cloud_Gateway-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="">
                     <img src="https://img.shields.io/badge/mybatis-DD0700?style=for-the-badge&logo=mybatis&logoColor=white">
                     <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
                 </td>
@@ -23,6 +25,7 @@
                 <td>
                     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
                     <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+                            <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="">
                 </td>
             </tr>
             <tr>
@@ -58,6 +61,8 @@
                     <img src="https://img.shields.io/badge/hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
                     <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white">
                     <img src="https://img.shields.io/badge/ibatis-DD0700?style=for-the-badge&logo=ibatis&logoColor=white">
+                    <img src="https://img.shields.io/badge/MSA-0088CC?style=for-the-badge&logo=microgen&logoColor=white" alt="">
+                    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="">
                 </td>
             </tr>
         </table>
