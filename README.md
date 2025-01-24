@@ -74,18 +74,20 @@
     <div style="width: 35%; text-align: center;">
         <h2>📊 Stats</h2><br>
         <div style="display:flex; flex-direction:row">
-        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Blaten7&theme=highcontrast&hide_border=true&date_format=%5BY.%5Dn.j" width="51.8%" height="50%" alt="GitHub Streak" /></a>
-        <a href="https://solved.ac/lasercannon/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lasercannon" width="42.2%" alt="Solved.ac Profile"></a>     
+            <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Blaten7&theme=highcontrast&hide_border=true&date_format=%5BY.%5Dn.j" width="51.8%" height="50%" alt="GitHub Streak" /></a>
+            <a href="https://solved.ac/lasercannon/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lasercannon" width="42.2%" alt="Solved.ac Profile"></a>     
         </div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blaten7&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0d1117&icon_color=00FFFF&text_color=00FFFF&title_color=00FFFF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-</a>    
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Blaten7&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0d1117&icon_color=00FFFF&text_color=00FFFF&title_color=00FFFF&count_private=true" width=56% />
-</a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blaten7&theme=react-dark&bg_color=0d1117&hide_border=true&line=00FFFF&color=00FFFF" width=94.4% />
-</a>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blaten7&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0d1117&icon_color=00FFFF&text_color=00FFFF&title_color=00FFFF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+        </a>    
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img src="https://github-readme-stats.vercel.app/api?username=Blaten7&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0d1117&icon_color=00FFFF&text_color=00FFFF&title_color=00FFFF&count_private=true" width=56% />
+        </a>
+        <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+            <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blaten7&theme=react-dark&bg_color=0d1117&hide_border=true&line=00FFFF&color=00FFFF" width=94.4% />
+        </a>
     </div>
     <h2>📜 Certifications</h2><br>
 </div>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlaten7&count_bg=%2379C83D&title_bg=%23555555&icon=buzzfeed.svg&icon_color=%23E7E7E7&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
