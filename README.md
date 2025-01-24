@@ -68,9 +68,6 @@
             </tr>
         </table>
     </div><br><br><br>
-    <div>
-        <h2>💻 Projects</h2><br>
-    </div><br><br>
     <div style="width: 35%; text-align: center;">
         <h2>📊 Stats</h2><br>
         <div style="display:flex; flex-direction:row">
@@ -87,7 +84,6 @@
             <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blaten7&theme=react-dark&bg_color=0d1117&hide_border=true&line=00FFFF&color=00FFFF" width=94.4% />
         </a>
     </div>
-    <h2>📜 Certifications</h2><br>
 </div>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlaten7&count_bg=%2379C83D&title_bg=%23555555&icon=buzzfeed.svg&icon_color=%23E7E7E7&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
